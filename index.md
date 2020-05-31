@@ -1,3 +1,3 @@
-## (Testable.org)[https://testable.org]
+## [testable.org](https://testable.org)
 The latest JavaScript tips & tricks from Testable.org team
 ### Support or Contact
